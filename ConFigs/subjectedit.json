@@ -1,0 +1,24 @@
+[
+  {
+    "subject": "1010199",
+    "subjectallowwildcard": "false",
+    "subjectReplaceTo": 10199,
+    "matchbodytext": ""
+  },
+
+
+
+  {
+    "subject": "SCM-AR-0042F - Prime Availability - R045JG Backorders & Stock",
+    "subjectallowwildcard": "true",
+    "subjectReplaceTo": 2014173,
+    "matchbodytext": ""
+  },
+
+  {
+    "subject": "2010199 Doe",
+    "subjectallowwildcard": "false",
+    "subjectReplaceTo": 10199,
+    "matchbodytext": ""
+  }
+]
